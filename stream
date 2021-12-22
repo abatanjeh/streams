@@ -49,3 +49,5 @@ https://vd349.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1640278031410&srcIp
 https://vd160.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1640278197166&srcIp=213.244.116.244&srcAg=CHROME_ANDROID&ms=45.136.21.7&type=4&sig=AiMMLdotuM8&ct=8&urls=185.226.53.32&clientType=0&id=1102965508703
 #EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/UoO9uzE.jpg" group-title="News",Wara kol bab 25
 https://vd231.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1640278235532&srcIp=213.244.116.244&srcAg=CHROME_ANDROID&ms=45.136.22.39&type=4&sig=uPE--fUECYo&ct=8&urls=185.226.53.28&clientType=0&id=1542213929481
+#EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/bU5Zk78.png" group-title="News",Wara kol bab 1
+https://vod2.furrera.ps/vod2/2021Q1/arabic_series/Wara.Kol.Bab/Wara.Kol.Bab.S02.E01.mp4/index.m3u8
